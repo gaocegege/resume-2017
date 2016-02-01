@@ -1,12 +1,11 @@
 {
     "basics": {
         "name": "Ce Gao",
-        "label": "Programmer",
+        "label": "Undergraduate",
         "picture": "",
         "email": "ce.gao@outlook.com",
         "phone": "1592 1592 066",
         "website": "http://gaocegege.com",
-        "summary": "",
         "location": {
             "address": "800 Dongchuan RD. Minhang District",
             "postalCode": "200240",
@@ -52,7 +51,6 @@
         "studyType": "Bachelor",
         "startDate": "2012-09",
         "endDate": "2016-06",
-        "gpa": "",
         "courses": []
     }, {
         "institution": "Shanghai Jiao Tong University",
@@ -60,7 +58,6 @@
         "studyType": "Bachelor",
         "startDate": "2013-09",
         "endDate": "2016-06",
-        "gpa": "",
         "courses": []
     }],
     "awards": [{
@@ -71,8 +68,7 @@
     }, {
         "title": "National Mathematical Contest in Modeling",
         "date": "2014-11",
-        "awarder": "First Prize in Shanghai Area",
-        "summary": ""
+        "awarder": "First Prize in Shanghai Area"
     }, {
         "title": "DaZhongDianPing Geek Challenge",
         "date": "2014-07",
@@ -81,26 +77,22 @@
     }, {
         "title": "Shanghai Jiaotong University",
         "date": "2013-09",
-        "awarder": "Third Prize Scholarship",
-        "summary": ""
+        "awarder": "Third Prize Scholarship"
     }],
     "publications": [{
         "name": "scrala, a scala crawler(spider) framework, inspired by scrapy",
         "publisher": "Ce Gao",
         "releaseDate": "2015-12",
-        "website": "http://gaocegege.com/scrala/",
-        "summary": ""
+        "website": "http://gaocegege.com/scrala/"
     }, {
         "name": "scala-renren, a graphical view of relationships between renren users",
         "publisher": "Ce Gao",
         "releaseDate": "2015-04",
-        "website": "http://gaocegege.com/scala-renren/",
-        "summary": ""
+        "website": "http://gaocegege.com/scala-renren/"
     }, {
         "name": "fornax, a release management system based on docker cluster",
         "publisher": "caicloud",
         "releaseDate": "2016",
-        "website": "",
         "summary": "Developing now"
     }],
     "skills": [{
@@ -128,7 +120,6 @@
         ]
     }, {
         "name": "Others",
-        "level": "",
         "keywords": [
             "HTTP",
             "Computer System",
