@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "高策",
+    "label": "本科生",
+    "email": "ce.gao@outlook.com",
+    "phone": "1592 1592 066",
+    "website": "http://gaocegege.com",
+    "location": {
+      "address": "闵行区东川路800号",
+      "postalCode": "200240",
+      "city": "上海",
+      "countryCode": "86",
+      "region": "中国"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "gaocegege",
+        "url": "https://github.com/gaocegege"
+      },
+      {
+        "network": "博客",
+        "username": "gaocegege",
+        "url": "http://gaocegege.com/Blog/"
+      },
+      {
+        "network": "Linkedin",
+        "username": "gaocegege",
+        "url": "http://cn.linkedin.com/in/gaocegege"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "支付宝",
+      "position": "Java实习",
+      "website": "https://www.alipay.com/",
+      "startDate": "2015-07",
+      "endDate": "2015-09",
+      "summary": "在支付宝国际事业部实习，参与海外直购项目开发",
+      "highlights": []
+    },
+    {
+      "company": "触宝",
+      "position": "数据实习",
+      "website": "http://www.touchpal.com/index.html",
+      "startDate": "2015-09",
+      "endDate": "2015-09",
+      "summary": "在数据部门实习，移植爬虫",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "上海交通大学",
+      "area": "主修软件工程专业",
+      "studyType": "学士",
+      "startDate": "2012-09",
+      "endDate": "2016-06",
+      "courses": []
+    },
+    {
+      "institution": "上海交通大学",
+      "area": "辅修法学专业",
+      "studyType": "学士",
+      "startDate": "2013-09",
+      "endDate": "2016-06",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "美国大学生数学建模竞赛（MCM/ICM）",
+      "date": "2015-03",
+      "awarder": "二等奖",
+      "summary": "使用元胞自动机算法模拟企业人员调动情况"
+    },
+    {
+      "title": "中国大学生数学建模竞赛",
+      "date": "2014-11",
+      "awarder": "上海赛区一等奖",
+      "summary": "十进制蚁群算法进行嫦娥三号轨迹优化"
+    },
+    {
+      "title": "大众点评校园Hackathon",
+      "date": "2014-07",
+      "awarder": "二等奖 & 杰出个人",
+      "summary": "大众点评组织的Hackathon活动"
+    },
+    {
+      "title": "上海交通大学",
+      "date": "2013-09",
+      "awarder": "三等奖学金"
+    }
+  ],
+  "publications": [
+    {
+      "name": "scrala, scala下的爬虫框架",
+      "publisher": "高策",
+      "releaseDate": "2015-12",
+      "website": "http://gaocegege.com/scrala/"
+    },
+    {
+      "name": "scala-renren, 人人网关注关系可视化",
+      "publisher": "高策",
+      "releaseDate": "2015-04",
+      "website": "http://gaocegege.com/scala-renren/"
+    },
+    {
+      "name": "fornax, 容器集群上的版本发布管理系统",
+      "publisher": "caicloud",
+      "releaseDate": "2016",
+      "summary": "Developing now"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Dev",
+      "level": "intermediate",
+      "keywords": [
+        "Java",
+        "C++",
+        "Design Pattern"
+      ]
+    },
+    {
+      "name": "Crawler",
+      "level": "intermediate",
+      "keywords": [
+        "Scrapy",
+        "Distributed Crawler"
+      ]
+    },
+    {
+      "name": "Ops",
+      "level": "beginner",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Others",
+      "keywords": [
+        "HTTP",
+        "Computer System",
+        "Python",
+        "Scala",
+        "Golang",
+        "Continuous integration",
+        "Service Discovery"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Github",
+        "Scala",
+        "Blog",
+        "Hackathon",
+        "Crawler",
+        "Docker",
+        "MOOC"
+      ]
+    },
+    {
+      "name": "Others",
+      "keywords": [
+        "Swimming",
+        "Debeat",
+        "Computer Game"
+      ]
+    }
+  ],
+  "references": []
+}
