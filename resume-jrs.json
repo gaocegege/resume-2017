@@ -1,0 +1,163 @@
+{
+    "basics": {
+        "name": "Ce Gao",
+        "label": "Programmer",
+        "picture": "",
+        "email": "ce.gao@outlook.com",
+        "phone": "1592 1592 066",
+        "website": "http://gaocegege.com",
+        "summary": "",
+        "location": {
+            "address": "800 Dongchuan RD. Minhang District",
+            "postalCode": "200240",
+            "city": "Shanghai",
+            "countryCode": "86",
+            "region": "China"
+        },
+        "profiles": [{
+            "network": "GitHub",
+            "username": "gaocegege",
+            "url": "https://github.com/gaocegege"
+        }, {
+            "network": "Blog",
+            "username": "gaocegege",
+            "url": "http://gaocegege.com/Blog/"
+        }, {
+            "network": "Linkedin",
+            "username": "gaocegege",
+            "url": "http://cn.linkedin.com/in/gaocegege"
+        }]
+    },
+    "work": [{
+        "company": "Alipay",
+        "position": "Java Intern",
+        "website": "https://www.alipay.com/",
+        "startDate": "2015-07",
+        "endDate": "2015-09",
+        "summary": "intern at Alipay international department",
+        "highlights": []
+    }, {
+        "company": "TouchPal",
+        "position": "Data Intern",
+        "website": "http://www.touchpal.com/index.html",
+        "startDate": "2015-09",
+        "endDate": "2015-09",
+        "summary": "intern at Data team, focusing on code migration.",
+        "highlights": []
+    }],
+    "volunteer": [],
+    "education": [{
+        "institution": "Shanghai Jiao Tong University",
+        "area": " Major in Software Engineering",
+        "studyType": "Bachelor",
+        "startDate": "2012-09",
+        "endDate": "2016-06",
+        "gpa": "",
+        "courses": []
+    }, {
+        "institution": "Shanghai Jiao Tong University",
+        "area": "Minor in Law",
+        "studyType": "Bachelor",
+        "startDate": "2013-09",
+        "endDate": "2016-06",
+        "gpa": "",
+        "courses": []
+    }],
+    "awards": [{
+        "title": "Interdisciplinary Contest In Modeling(ICM)",
+        "date": "2015-03",
+        "awarder": "Honorable Mention",
+        "summary": "Simulate the personnel transfer and resignation process in a company using Cellar Automata"
+    }, {
+        "title": "National Mathematical Contest in Modeling",
+        "date": "2014-11",
+        "awarder": "First Prize in Shanghai Area",
+        "summary": ""
+    }, {
+        "title": "DaZhongDianPing Geek Challenge",
+        "date": "2014-07",
+        "awarder": "Second Prize & Outstanding Person",
+        "summary": "This is a hackathon hosted by DianPing, our team got 2nd prize and the R&D Offer in DaZhongDianPing."
+    }, {
+        "title": "Shanghai Jiaotong University",
+        "date": "2013-09",
+        "awarder": "Third Prize Scholarship",
+        "summary": ""
+    }],
+    "publications": [{
+        "name": "scrala, a scala crawler(spider) framework, inspired by scrapy",
+        "publisher": "Ce Gao",
+        "releaseDate": "2015-12",
+        "website": "http://gaocegege.com/scrala/",
+        "summary": ""
+    }, {
+        "name": "scala-renren, a graphical view of relationships between renren users",
+        "publisher": "Ce Gao",
+        "releaseDate": "2015-04",
+        "website": "http://gaocegege.com/scala-renren/",
+        "summary": ""
+    }, {
+        "name": "fornax, a release management system based on docker cluster",
+        "publisher": "caicloud",
+        "releaseDate": "2016",
+        "website": "",
+        "summary": "Developing now"
+    }],
+    "skills": [{
+        "name": "Dev",
+        "level": "intermediate",
+        "keywords": [
+            "Java",
+            "C++",
+            "Design Pattern"
+        ]
+    }, {
+        "name": "Crawler",
+        "level": "intermediate",
+        "keywords": [
+            "Scrapy",
+            "Distributed Crawler"
+        ]
+    }, {
+        "name": "Ops",
+        "level": "beginner",
+        "keywords": [
+            "Docker",
+            "Kubernetes",
+            "Linux"
+        ]
+    }, {
+        "name": "Others",
+        "level": "",
+        "keywords": [
+            "HTTP",
+            "Computer System",
+            "Python",
+            "Scala",
+            "Golang",
+            "Continuous integration",
+            "Service Discovery"
+        ]
+    }],
+    "languages": [],
+    "interests": [{
+        "name": "Programming",
+        "keywords": [
+            "Github",
+            "Scala",
+            "Blog",
+            "Hackathon",
+            "Crawler",
+            "Docker",
+            "MOOC"
+        ]
+    }, {
+        "name": "Others",
+        "keywords": [
+            "Swimming",
+            "Debeat",
+            "Computer Game"
+        ]
+    }],
+    "references": []
+}
