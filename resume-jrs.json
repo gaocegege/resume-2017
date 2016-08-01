@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Ce Gao",
-        "label": "Undergraduate",
+        "label": "Master degree candidate",
         "picture": "",
         "email": "ce.gao@outlook.com",
         "phone": "1592 1592 066",
@@ -46,6 +46,14 @@
     }],
     "volunteer": [],
     "education": [{
+        "institution": "Shanghai Jiao Tong University",
+        "area": "Software Engineering",
+        "studyType": "Master",
+        "startDate": "2016-09",
+        "endDate": "2019-03",
+        "courses": []
+    }, 
+    {
         "institution": "Shanghai Jiao Tong University",
         "area": " Major in Software Engineering",
         "studyType": "Bachelor",

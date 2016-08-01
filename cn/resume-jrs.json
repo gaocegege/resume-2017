@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "高策",
-    "label": "本科生",
+    "label": "研究生在读",
     "email": "ce.gao@outlook.com",
     "phone": "1592 1592 066",
     "website": "http://gaocegege.com",
@@ -51,7 +51,14 @@
     }
   ],
   "volunteer": [],
-  "education": [
+  "education": [{
+      "institution": "上海交通大学",
+      "area": "软件工程专业",
+      "studyType": "硕士研究生",
+      "startDate": "2016-09",
+      "endDate": "2019-03",
+      "courses": []
+    },
     {
       "institution": "上海交通大学",
       "area": "主修软件工程专业",
