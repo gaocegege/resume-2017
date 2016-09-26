@@ -69,6 +69,10 @@
         "courses": []
     }],
     "awards": [{
+        "title": "7th China Students Service Outsourcing Innovation & Entrepreneurship Competition",
+        "date": "2016-09",
+        "awarder": "First Prize"
+    }, {
         "title": "Interdisciplinary Contest In Modeling(ICM)",
         "date": "2015-03",
         "awarder": "Honorable Mention",
@@ -101,7 +105,13 @@
         "name": "fornax, a release management system based on Docker",
         "publisher": "caicloud",
         "releaseDate": "2016",
+        "summary": "About to open source"
+    }, {
+        "name": "Processing.R, R language mode for Processing",
+        "publisher": "Ce Gao",
+        "releaseDate": "2016-09",
         "summary": "Developing now"
+        ,"website": "https://github.com/gaocegege/processing.r"
     }],
     "skills": [{
         "name": "Dev",

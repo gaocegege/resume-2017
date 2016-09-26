@@ -78,6 +78,11 @@
   ],
   "awards": [
     {
+      "title": "第七届中国大学生服务外包创新创业大赛",
+      "date": "2016-09",
+      "awarder": "全国一等奖"
+    },
+    {
       "title": "美国大学生数学建模竞赛（MCM/ICM）",
       "date": "2015-03",
       "awarder": "二等奖",
@@ -118,7 +123,14 @@
       "name": "fornax, 容器集群上的版本发布管理系统",
       "publisher": "caicloud",
       "releaseDate": "2016",
-      "summary": "Developing now"
+      "summary": "最近将会开源"
+    },
+    {
+      "name": "Processing.R, Processing的R语言支持",
+      "publisher": "高策",
+      "releaseDate": "2016-09",
+      "summary": "开发中",
+      "website": "https://github.com/gaocegege/processing.r"
     }
   ],
   "skills": [
