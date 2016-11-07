@@ -123,7 +123,7 @@
       "name": "fornax, 容器集群上的版本发布管理系统",
       "publisher": "caicloud",
       "releaseDate": "2016",
-      "summary": "最近将会开源"
+      "website": "https://github.com/caicloud/cyclone"
     },
     {
       "name": "Processing.R, Processing的R语言支持",

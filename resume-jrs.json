@@ -102,10 +102,10 @@
         "releaseDate": "2015-04",
         "website": "http://gaocegege.com/scala-renren/"
     }, {
-        "name": "fornax, a release management system based on Docker",
+        "name": "cyclone, a release management system based on Docker",
         "publisher": "caicloud",
-        "releaseDate": "2016",
-        "summary": "About to open source"
+        "releaseDate": "2016-11",
+        "website": "https://github.com/caicloud/cyclone"
     }, {
         "name": "Processing.R, R language mode for Processing",
         "publisher": "Ce Gao",
