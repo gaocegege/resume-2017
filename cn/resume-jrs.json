@@ -120,7 +120,7 @@
       "website": "http://gaocegege.com/scala-renren/"
     },
     {
-      "name": "fornax, 容器集群上的版本发布管理系统",
+      "name": "cyclone, 容器集群上的版本发布管理系统",
       "publisher": "caicloud",
       "releaseDate": "2016",
       "website": "https://github.com/caicloud/cyclone"
