@@ -105,13 +105,13 @@
         "name": "cyclone, a release management system based on Docker",
         "publisher": "caicloud",
         "releaseDate": "2016-11",
+        "summary": "250+ stars in GitHub",
         "website": "https://github.com/caicloud/cyclone"
     }, {
         "name": "Processing.R, R language mode for Processing",
         "publisher": "Ce Gao",
         "releaseDate": "2016-09",
-        "summary": "Developing now"
-        ,"website": "https://github.com/gaocegege/processing.r"
+        "website": "https://github.com/gaocegege/processing.r"
     }],
     "skills": [{
         "name": "Dev",

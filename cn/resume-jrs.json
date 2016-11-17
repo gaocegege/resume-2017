@@ -122,14 +122,14 @@
     {
       "name": "cyclone, 容器集群上的版本发布管理系统",
       "publisher": "caicloud",
-      "releaseDate": "2016",
+      "releaseDate": "2016-11",
+      "summary": "250+ stars in GitHub",
       "website": "https://github.com/caicloud/cyclone"
     },
     {
       "name": "Processing.R, Processing的R语言支持",
       "publisher": "高策",
       "releaseDate": "2016-09",
-      "summary": "开发中",
       "website": "https://github.com/gaocegege/processing.r"
     }
   ],
