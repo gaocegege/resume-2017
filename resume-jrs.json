@@ -105,7 +105,7 @@
         "name": "cyclone, a release management system based on Docker",
         "publisher": "caicloud",
         "releaseDate": "2016-11",
-        "summary": "250+ stars in GitHub",
+        "summary": "300+ stars in GitHub",
         "website": "https://github.com/caicloud/cyclone"
     }, {
         "name": "Processing.R, R language mode for Processing",
@@ -113,60 +113,29 @@
         "releaseDate": "2016-09",
         "website": "https://github.com/gaocegege/processing.r"
     }],
-    "skills": [{
-        "name": "Dev",
-        "level": "intermediate",
-        "keywords": [
-            "Java",
-            "C++",
-            "Design Pattern"
-        ]
-    }, {
-        "name": "Crawler",
-        "level": "intermediate",
-        "keywords": [
-            "Scrapy",
-            "Distributed Crawler"
-        ]
-    }, {
-        "name": "Ops",
-        "level": "beginner",
-        "keywords": [
-            "Docker",
-            "Kubernetes",
-            "Linux"
-        ]
-    }, {
-        "name": "Others",
-        "keywords": [
-            "HTTP",
-            "Computer System",
-            "Python",
-            "Scala",
-            "Golang",
-            "Continuous integration",
-            "Service Discovery"
-        ]
-    }],
     "languages": [],
-    "interests": [{
-        "name": "Programming",
-        "keywords": [
-            "Github",
-            "Scala",
-            "Blog",
-            "Hackathon",
-            "Crawler",
-            "Docker",
-            "MOOC"
-        ]
-    }, {
-        "name": "Others",
-        "keywords": [
-            "Swimming",
-            "Debate",
-            "Computer Game"
-        ]
-    }],
+    "interests": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Github",
+        "Scala",
+        "Blog",
+        "Hackathon",
+        "Crawler",
+        "Docker",
+        "MOOC",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Others",
+      "keywords": [
+        "Swimming",
+        "Debate",
+        "Computer Game"
+      ]
+    }
+  ],
     "references": []
 }

@@ -46,7 +46,7 @@
       "website": "http://www.touchpal.com/index.html",
       "startDate": "2015-09",
       "endDate": "2015-09",
-      "summary": "在数据部门实习，移植爬虫",
+      "summary": "在数据部门实习，参与爬虫项目",
       "highlights": []
     }
   ],
@@ -95,7 +95,7 @@
       "summary": "十进制蚁群算法进行嫦娥三号轨迹优化"
     },
     {
-      "title": "大众点评校园Hackathon",
+      "title": "大众点评校园 Hackathon",
       "date": "2014-07",
       "awarder": "二等奖 & 杰出个人",
       "summary": "大众点评组织的Hackathon活动"
@@ -111,66 +111,29 @@
       "name": "scrala, scala下的爬虫框架",
       "publisher": "高策",
       "releaseDate": "2015-12",
+      "summary": "基于 Actor 模型，灵感来自 python 的爬虫框架 scrapy",
       "website": "http://gaocegege.com/scrala/"
     },
     {
       "name": "scala-renren, 人人网关注关系可视化",
       "publisher": "高策",
       "releaseDate": "2015-04",
+      "summary": "基于 Actor 模型，实现了多线程爬虫并展示结果",
       "website": "http://gaocegege.com/scala-renren/"
     },
     {
       "name": "cyclone, 容器集群上的版本发布管理系统",
       "publisher": "caicloud",
       "releaseDate": "2016-11",
-      "summary": "250+ stars in GitHub",
+      "summary": "300+ stars in GitHub",
       "website": "https://github.com/caicloud/cyclone"
     },
     {
-      "name": "Processing.R, Processing的R语言支持",
+      "name": "processing.r, Processing的R语言支持",
       "publisher": "高策",
       "releaseDate": "2016-09",
+      "summary": "实现了一个模块，使得 R 语言支持 Processing 的特性",
       "website": "https://github.com/gaocegege/processing.r"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Dev",
-      "level": "intermediate",
-      "keywords": [
-        "Java",
-        "C++",
-        "Design Pattern"
-      ]
-    },
-    {
-      "name": "Crawler",
-      "level": "intermediate",
-      "keywords": [
-        "Scrapy",
-        "Distributed Crawler"
-      ]
-    },
-    {
-      "name": "Ops",
-      "level": "beginner",
-      "keywords": [
-        "Docker",
-        "Kubernetes",
-        "Linux"
-      ]
-    },
-    {
-      "name": "Others",
-      "keywords": [
-        "HTTP",
-        "Computer System",
-        "Python",
-        "Scala",
-        "Golang",
-        "Continuous integration",
-        "Service Discovery"
-      ]
     }
   ],
   "languages": [],
@@ -184,7 +147,8 @@
         "Hackathon",
         "Crawler",
         "Docker",
-        "MOOC"
+        "MOOC",
+        "Distributed Systems"
       ]
     },
     {
