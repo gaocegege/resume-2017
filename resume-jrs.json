@@ -69,6 +69,10 @@
         "courses": []
     }],
     "awards": [{
+        "title": "13th National Post-Graduate Mathematic Contest in Modeling(NPGMCM)",
+        "date": "2016-11",
+        "awarder": "Second Prize"
+    }, {
         "title": "7th China Students Service Outsourcing Innovation & Entrepreneurship Competition",
         "date": "2016-09",
         "awarder": "First Prize"
@@ -97,20 +101,21 @@
         "releaseDate": "2015-12",
         "website": "http://gaocegege.com/scrala/"
     }, {
-        "name": "scala-renren, a graphical view of relationships between renren users",
+        "name": "maintainer, generate AUTHORS, CONTRIBUTING, and CHANGELOG for your GitHub repository",
         "publisher": "Ce Gao",
-        "releaseDate": "2015-04",
-        "website": "http://gaocegege.com/scala-renren/"
+        "releaseDate": "2017-04",
+        "website": "https://github.com/gaocegege/maintainer"
     }, {
         "name": "cyclone, a release management system based on Docker",
         "publisher": "caicloud",
         "releaseDate": "2016-11",
-        "summary": "300+ stars in GitHub",
+        "summary": "My graduation project, got 370+ stars in GitHub",
         "website": "https://github.com/caicloud/cyclone"
     }, {
         "name": "Processing.R, R language mode for Processing",
         "publisher": "Ce Gao",
         "releaseDate": "2016-09",
+        "summary": "A mode to use Processing core functions in R language",
         "website": "https://github.com/gaocegege/processing.r"
     }],
     "languages": [],

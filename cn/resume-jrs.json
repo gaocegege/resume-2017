@@ -78,9 +78,14 @@
   ],
   "awards": [
     {
+      "title": "第十三届全国研究生数学建模竞赛（NPGMCM）",
+      "date": "2016-11",
+      "awarder": "二等奖"
+    },
+    {
       "title": "第七届中国大学生服务外包创新创业大赛",
       "date": "2016-09",
-      "awarder": "全国一等奖"
+      "awarder": "一等奖"
     },
     {
       "title": "美国大学生数学建模竞赛（MCM/ICM）",
@@ -115,24 +120,23 @@
       "website": "http://gaocegege.com/scrala/"
     },
     {
-      "name": "scala-renren, 人人网关注关系可视化",
+      "name": "maintainer, 根据 GitHub repository 生成 CHANGELOG 等文档",
       "publisher": "高策",
-      "releaseDate": "2015-04",
-      "summary": "基于 Actor 模型，实现了多线程爬虫并展示结果",
-      "website": "http://gaocegege.com/scala-renren/"
+      "releaseDate": "2017-04",
+      "website": "https://github.com/gaocegege/maintainer"
     },
     {
       "name": "cyclone, 容器集群上的版本发布管理系统",
       "publisher": "caicloud",
       "releaseDate": "2016-11",
-      "summary": "300+ stars in GitHub",
+      "summary": "本科毕业设计，合作实现, 在 GitHub 上 370+ stars",
       "website": "https://github.com/caicloud/cyclone"
     },
     {
       "name": "processing.r, Processing的R语言支持",
       "publisher": "高策",
       "releaseDate": "2016-09",
-      "summary": "实现了一个模块，使得 R 语言支持 Processing 的特性",
+      "summary": "实现了 Processing 的 R mode",
       "website": "https://github.com/gaocegege/processing.r"
     }
   ],
