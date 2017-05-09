@@ -115,7 +115,7 @@
         "name": "Processing.R, R language mode for Processing",
         "publisher": "Ce Gao",
         "releaseDate": "2016-09",
-        "summary": "A mode to use Processing core functions in R language",
+        "summary": "Allows the users to write Processing sketches in R. Google Summer of code 2017 project.",
         "website": "https://github.com/gaocegege/processing.r"
     }],
     "languages": [],

@@ -133,10 +133,10 @@
       "website": "https://github.com/caicloud/cyclone"
     },
     {
-      "name": "processing.r, Processing的R语言支持",
+      "name": "Processing.R, Processing 的 R Mode",
       "publisher": "高策",
       "releaseDate": "2016-09",
-      "summary": "实现了 Processing 的 R mode",
+      "summary": "实现了 Processing 的 R 语言支持，Google Summer of Code 2017 项目",
       "website": "https://github.com/gaocegege/processing.r"
     }
   ],
