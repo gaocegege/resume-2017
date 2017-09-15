@@ -81,8 +81,7 @@
     }, {
         "title": "Interdisciplinary Contest In Modeling(ICM)",
         "date": "2015-03",
-        "awarder": "Honorable Mention",
-        "summary": "Simulate the personnel transfer and resignation process in a company using Cellar Automata"
+        "awarder": "Honorable Mention"
     }, {
         "title": "National Mathematical Contest in Modeling",
         "date": "2014-11",
@@ -90,8 +89,7 @@
     }, {
         "title": "DaZhongDianPing Geek Challenge",
         "date": "2014-07",
-        "awarder": "Second Prize & Outstanding Person",
-        "summary": "This is a hackathon hosted by DianPing, our team got 2nd prize and the R&D Offer in DaZhongDianPing."
+        "awarder": "Second Prize & Outstanding Person"
     }],
     "publications": [{
         "name": "scrala",
