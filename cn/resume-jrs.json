@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "高策",
-    "label": "研究生在读",
+    "label": "寻找 2018 年暑假实习职位",
     "email": "ce.gao@outlook.com",
     "phone": "1592 1592 066",
     "website": "http://gaocegege.com",
@@ -32,21 +32,30 @@
   },
   "work": [
     {
-      "company": "支付宝",
-      "position": "Java实习",
-      "website": "https://www.alipay.com/",
-      "startDate": "2015-07",
-      "endDate": "2015-09",
-      "summary": "在支付宝国际事业部实习，参与海外直购项目开发",
+      "company": "Google Summer of Code 2017",
+      "position": "学生参与者",
+      "website": "https://summerofcode.withgoogle.com/",
+      "startDate": "2017-05",
+      "endDate": "2017-08",
+      "summary": "在 Google 的资助下帮助 Processing 基金会实现了 Processing 的 R 语言模式",
       "highlights": []
     },
     {
-      "company": "触宝",
-      "position": "数据实习",
+      "company": "蚂蚁金服（杭州）网络技术有限公司",
+      "position": "Java 研发工程师（实习）",
+      "website": "https://www.alipay.com/",
+      "startDate": "2015-07",
+      "endDate": "2015-09",
+      "summary": "在支付宝国际事业部实习，从事支付宝海外直购项目，利用内部框架实现业务逻辑以及后台管理部分逻辑",
+      "highlights": []
+    },
+    {
+      "company": "上海触宝信息技术有限公司",
+      "position": "数据工程师（实习）",
       "website": "http://www.touchpal.com/index.html",
       "startDate": "2015-09",
       "endDate": "2015-09",
-      "summary": "在数据部门实习，参与爬虫项目",
+      "summary": "参与互联网爬虫项目移植",
       "highlights": []
     }
   ],
@@ -61,17 +70,9 @@
     },
     {
       "institution": "上海交通大学",
-      "area": "主修软件工程专业",
+      "area": "主修软件工程专业，辅修法学专业",
       "studyType": "学士",
       "startDate": "2012-09",
-      "endDate": "2016-06",
-      "courses": []
-    },
-    {
-      "institution": "上海交通大学",
-      "area": "辅修法学专业",
-      "studyType": "学士",
-      "startDate": "2013-09",
       "endDate": "2016-06",
       "courses": []
     }
@@ -79,7 +80,7 @@
   "awards": [
     {
       "title": "第十三届全国研究生数学建模竞赛（NPGMCM）",
-      "date": "2016-11",
+      "date": "2016-12",
       "awarder": "二等奖"
     },
     {
@@ -90,77 +91,69 @@
     {
       "title": "美国大学生数学建模竞赛（MCM/ICM）",
       "date": "2015-03",
-      "awarder": "二等奖",
-      "summary": "使用元胞自动机算法模拟企业人员调动情况"
+      "awarder": "二等奖"
     },
     {
       "title": "中国大学生数学建模竞赛",
       "date": "2014-11",
-      "awarder": "上海赛区一等奖",
-      "summary": "十进制蚁群算法进行嫦娥三号轨迹优化"
+      "awarder": "上海赛区一等奖"
     },
     {
       "title": "大众点评校园 Hackathon",
       "date": "2014-07",
-      "awarder": "二等奖 & 杰出个人",
-      "summary": "大众点评组织的Hackathon活动"
-    },
-    {
-      "title": "上海交通大学",
-      "date": "2013-09",
-      "awarder": "三等奖学金"
+      "awarder": "二等奖 & 杰出个人"
     }
   ],
   "publications": [
     {
-      "name": "scrala, scala下的爬虫框架",
+      "name": "scrala",
       "publisher": "高策",
       "releaseDate": "2015-12",
-      "summary": "基于 Actor 模型，灵感来自 python 的爬虫框架 scrapy",
+      "summary": "scrala 是使用 scala 实现的爬虫框架；该框架灵感来自 Python 的爬虫框架 scrapy，与其拥有相似的架构，底层使用 Actor 模型构建，在 GitHub 上获得 70 star",
       "website": "http://gaocegege.com/scrala/"
     },
     {
-      "name": "maintainer, 根据 GitHub repository 生成 CHANGELOG 等文档",
+      "name": "maintainer",
       "publisher": "高策",
       "releaseDate": "2017-04",
-      "website": "https://github.com/gaocegege/maintainer"
+      "website": "https://github.com/gaocegege/maintainer",
+      "summary": "maintainer 是一个 go 语言实现的，根据 GitHub repository 生成 CHANGELOG 等文档的工具，在 GitHub 上获得 110 star"
     },
     {
-      "name": "cyclone, 容器集群上的版本发布管理系统",
+      "name": "cyclone",
       "publisher": "caicloud",
       "releaseDate": "2016-11",
-      "summary": "本科毕业设计，合作实现, 在 GitHub 上 370+ stars",
+      "summary": "cyclone 是一个基于容器的持续集成与持续发布系统，与 Jenkins 等拥有类似的功能，与杭州才云科技有限公司合作开发实现，在 GitHub 上获得 430 star",
       "website": "https://github.com/caicloud/cyclone"
     },
     {
-      "name": "Processing.R, Processing 的 R Mode",
+      "name": "Processing.R",
       "publisher": "高策",
-      "releaseDate": "2016-09",
-      "summary": "实现了 Processing 的 R 语言支持，Google Summer of Code 2017 项目",
+      "releaseDate": "2017-08",
+      "summary": "Google Summer of Code 2017 项目，在 UCSB 教授 Jeremy Douglass 的指导和 Google 的资助下，实现了 Processing 的 R 语言模式，支持 Processing 大多数接口，部分 Processing 库以及部分 R 包，项目开源在 GitHub 上，获得 70 star",
       "website": "https://github.com/gaocegege/processing.r"
     }
   ],
   "languages": [],
   "interests": [
     {
-      "name": "Programming",
+      "name": "编程",
       "keywords": [
         "Github",
-        "Scala",
+        "Golang",
         "Blog",
         "Hackathon",
-        "Crawler",
-        "Docker",
-        "MOOC",
-        "Distributed Systems"
+        "爬虫",
+        "容器虚拟化",
+        "分布式系统",
+        "新媒体艺术"
       ]
     },
     {
-      "name": "Others",
+      "name": "其他",
       "keywords": [
-        "Swimming",
-        "Debate",
-        "Computer Game"
+        "辩论",
+        "计算机游戏"
       ]
     }
   ],

@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Ce Gao",
-        "label": "studying for an master degree",
+        "label": "Seeking a position as a summer intern in 2018",
         "picture": "",
         "email": "ce.gao@outlook.com",
         "phone": "1592 1592 066",
@@ -28,20 +28,29 @@
         }]
     },
     "work": [{
+        "company": "Google Summer of Code 2017",
+        "position": "Student Participant",
+        "website": "https://summerofcode.withgoogle.com/",
+        "startDate": "2017-05",
+        "endDate": "2017-08",
+        "summary": "Implement R mode for Processing with the sponsorship of Google",
+        "highlights": []
+      },
+      {
         "company": "Alipay",
-        "position": "Java Intern",
+        "position": "Java R&D Engineer(Intern)",
         "website": "https://www.alipay.com/",
         "startDate": "2015-07",
         "endDate": "2015-09",
-        "summary": "intern at Alipay international department",
+        "summary": "Work on Alipay network business platform, implement some business logic and some logic about operation platform",
         "highlights": []
     }, {
         "company": "TouchPal",
-        "position": "Data Intern",
+        "position": "Data Engineer(Intern)",
         "website": "http://www.touchpal.com/index.html",
         "startDate": "2015-09",
         "endDate": "2015-09",
-        "summary": "intern at Data team, focusing on code migration.",
+        "summary": "Focusing on code migration of the existing spiders",
         "highlights": []
     }],
     "volunteer": [],
@@ -55,22 +64,15 @@
     }, 
     {
         "institution": "Shanghai Jiao Tong University",
-        "area": " Major in Software Engineering",
+        "area": " Major in Software Engineering, Minor in Law",
         "studyType": "Bachelor",
         "startDate": "2012-09",
-        "endDate": "2016-06",
-        "courses": []
-    }, {
-        "institution": "Shanghai Jiao Tong University",
-        "area": "Minor in Law",
-        "studyType": "Bachelor",
-        "startDate": "2013-09",
         "endDate": "2016-06",
         "courses": []
     }],
     "awards": [{
         "title": "13th National Post-Graduate Mathematic Contest in Modeling(NPGMCM)",
-        "date": "2016-11",
+        "date": "2016-12",
         "awarder": "Second Prize"
     }, {
         "title": "7th China Students Service Outsourcing Innovation & Entrepreneurship Competition",
@@ -90,32 +92,30 @@
         "date": "2014-07",
         "awarder": "Second Prize & Outstanding Person",
         "summary": "This is a hackathon hosted by DianPing, our team got 2nd prize and the R&D Offer in DaZhongDianPing."
-    }, {
-        "title": "Shanghai Jiaotong University",
-        "date": "2013-09",
-        "awarder": "Third Prize Scholarship"
     }],
     "publications": [{
-        "name": "scrala, a scala crawler(spider) framework, inspired by scrapy",
+        "name": "scrala",
         "publisher": "Ce Gao",
         "releaseDate": "2015-12",
-        "website": "http://gaocegege.com/scrala/"
+        "website": "http://gaocegege.com/scrala/",
+        "summary": "scrala is a scala crawler(spider) framework, inspired by scrapy, with the support of actor model. 70 stars in GitHub"
     }, {
-        "name": "maintainer, generate AUTHORS, CONTRIBUTING, and CHANGELOG for your GitHub repository",
+        "name": "maintainer",
         "publisher": "Ce Gao",
         "releaseDate": "2017-04",
-        "website": "https://github.com/gaocegege/maintainer"
+        "website": "https://github.com/gaocegege/maintainer",
+        "summary": "maintainer is used to generate AUTHORS, CONTRIBUTING, and CHANGELOG for your GitHub repository. 110 stars in GitHub"
     }, {
-        "name": "cyclone, a release management system based on Docker",
+        "name": "cyclone",
         "publisher": "caicloud",
         "releaseDate": "2016-11",
-        "summary": "My graduation project, got 370+ stars in GitHub",
+        "summary": "cyclone is a continuous integration and continuous deployment platform, similiar to Jenkins. 440 stars in GitHub",
         "website": "https://github.com/caicloud/cyclone"
     }, {
-        "name": "Processing.R, R language mode for Processing",
+        "name": "Processing.R",
         "publisher": "Ce Gao",
-        "releaseDate": "2016-09",
-        "summary": "Allows the users to write Processing sketches in R. Google Summer of code 2017 project.",
+        "releaseDate": "2017-08",
+        "summary": "It is a Google Summer of code 2017 project, which implements R mode for Processing, to allow users write Processing sketches in R. 70 stars in GitHub",
         "website": "https://github.com/gaocegege/processing.r"
     }],
     "languages": [],
@@ -129,14 +129,12 @@
         "Hackathon",
         "Crawler",
         "Docker",
-        "MOOC",
         "Distributed Systems"
       ]
     },
     {
       "name": "Others",
       "keywords": [
-        "Swimming",
         "Debate",
         "Computer Game"
       ]
