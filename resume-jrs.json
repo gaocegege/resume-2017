@@ -47,7 +47,6 @@
       {
         "company": "Alipay",
         "position": "Java R&D Engineer(Intern)",
-        "website": "https://www.alipay.com/",
         "startDate": "2015-07",
         "endDate": "2015-09",
         "summary": "Work on Alipay network business platform, implement some business logic and some logic about operation platform",
@@ -55,7 +54,6 @@
     }, {
         "company": "TouchPal",
         "position": "Data Engineer(Intern)",
-        "website": "http://www.touchpal.com/index.html",
         "startDate": "2015-09",
         "endDate": "2015-09",
         "summary": "Focusing on code migration of the existing spiders",
