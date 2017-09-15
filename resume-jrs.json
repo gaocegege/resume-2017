@@ -37,6 +37,14 @@
         "highlights": []
       },
       {
+        "company": "Morgan Stanley",
+        "position": "CIP Project Intern",
+        "startDate": "2017-02",
+        "endDate": "2017-08",
+        "summary": "Implement scheduler logic similar to Kubernetes",
+        "highlights": []
+      },
+      {
         "company": "Alipay",
         "position": "Java R&D Engineer(Intern)",
         "website": "https://www.alipay.com/",
