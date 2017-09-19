@@ -33,7 +33,7 @@
         "website": "https://summerofcode.withgoogle.com/",
         "startDate": "2017-05",
         "endDate": "2017-08",
-        "summary": "Implement R mode for Processing with the sponsorship of Google",
+        "summary": "Implemented R mode for Processing with the sponsorship of Google",
         "highlights": []
       },
       {
@@ -41,7 +41,7 @@
         "position": "CIP Project Intern",
         "startDate": "2017-02",
         "endDate": "2017-08",
-        "summary": "Implement scheduler logic similar to Kubernetes",
+        "summary": "Implemented scheduler logic similar to Kubernetes",
         "highlights": []
       },
       {
@@ -49,14 +49,14 @@
         "position": "Java R&D Engineer(Intern)",
         "startDate": "2015-07",
         "endDate": "2015-09",
-        "summary": "Work on Alipay network business platform, implement some business logic and some logic about operation platform",
+        "summary": "Implemented some business logic and some logic about operation platform",
         "highlights": []
     }, {
         "company": "TouchPal",
         "position": "Data Engineer(Intern)",
         "startDate": "2015-09",
         "endDate": "2015-09",
-        "summary": "Focusing on code migration of the existing spiders",
+        "summary": "Migrated the web crawler code to the new architecture",
         "highlights": []
     }],
     "volunteer": [],
@@ -102,24 +102,24 @@
         "publisher": "Ce Gao",
         "releaseDate": "2015-12",
         "website": "http://gaocegege.com/scrala/",
-        "summary": "scrala is a scala crawler(spider) framework, inspired by scrapy, with the support of actor model. 70 stars in GitHub"
+        "summary": "The framework for writing spiders written in scala, got 70 stars in GitHub"
     }, {
         "name": "maintainer",
         "publisher": "Ce Gao",
         "releaseDate": "2017-04",
         "website": "https://github.com/gaocegege/maintainer",
-        "summary": "maintainer is used to generate AUTHORS, CONTRIBUTING, and CHANGELOG for your GitHub repository. 110 stars in GitHub"
+        "summary": "The tool to generate Authors and related documentation for GitHub repositories, got 120 stars in GitHub"
     }, {
         "name": "cyclone",
         "publisher": "caicloud",
         "releaseDate": "2016-11",
-        "summary": "cyclone is a continuous integration and continuous deployment platform, similiar to Jenkins. 440 stars in GitHub",
+        "summary": "The continuous integration and continuous deployment platform, similiar to Jenkins, got 440 stars in GitHub",
         "website": "https://github.com/caicloud/cyclone"
     }, {
         "name": "Processing.R",
         "publisher": "Ce Gao",
         "releaseDate": "2017-08",
-        "summary": "It is a Google Summer of code 2017 project, which implements R mode for Processing, to allow users write Processing sketches in R. 70 stars in GitHub",
+        "summary": "Google Summer of code 2017 project, which implemented R mode for Processing, to allow users write Processing sketches in R. Got 70 stars in GitHub",
         "website": "https://github.com/gaocegege/processing.r"
     }],
     "languages": [],
